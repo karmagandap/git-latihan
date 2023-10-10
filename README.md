@@ -1,3 +1,3 @@
 # git-latihan
 
-<h1>Judul Readme</h1>
+<h1>Ini merupakan judul dari Git Latihan</h1>
